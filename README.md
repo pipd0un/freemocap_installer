@@ -2,9 +2,9 @@
 
 >An installer to bypass painful steps for Windows users<br/>
 >All project and dependencies are related to following:<br/>
-    - https://github.com/freemocap/freemocap/
-    - https://repo.anaconda.com/miniconda/
-    - https://pyinstaller.org/en/stable/index.html
+    - https://github.com/freemocap/freemocap/<br/>
+    - https://repo.anaconda.com/miniconda/<br/>
+    - https://pyinstaller.org/en/stable/index.html<br/>
 
 # Changelog
 ## [r1-beta1] - 30.01.23 
