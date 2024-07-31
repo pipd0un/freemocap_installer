@@ -1,4 +1,5 @@
-# freemocap_installer
+# freemocap_installer (DEPRECATED)
+- After 1 year they officially updated their repo to make it easier to download and install, and it's no longer necessary.
 
 >An installer to bypass painful steps for Windows users<br/>
 >All project and dependencies are related to following:<br/>
